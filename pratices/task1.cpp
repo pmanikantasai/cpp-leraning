@@ -11,13 +11,10 @@ int evenodd (int n){
     }
     return 0;
 }
-
 int main (){
-
     int num ;
     cout << "num is : ";
     cin >> num ;
-
     evenodd (num);
     return 0;
 }
