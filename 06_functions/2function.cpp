@@ -10,6 +10,7 @@ int add (int a, int b);
 
 int main (){
 
+    // (10,20) are parameters
     int result = add(10,20);  // function calling
     cout << "function output is : "<< result << endl;
 
