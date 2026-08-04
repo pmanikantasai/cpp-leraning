@@ -61,7 +61,5 @@ int main(){
     //myacc.deposit(600);
     myacc.withdrawl(700);
     myacc.displayAccount();
-
-    
     return 0;
 }
