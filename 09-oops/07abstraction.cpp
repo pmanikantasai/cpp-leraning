@@ -58,6 +58,5 @@ int main(){
     car.breaks();
     car.breaks();
     car.displaySpeed();
-
     return 0;
 }
